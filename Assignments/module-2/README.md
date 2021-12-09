@@ -1,1 +1,1 @@
-https://github.com/A-vaidya/Coursera/blob/main/Assignments/module-2/index.html
+file:///D:/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-master/Assignments/module-2/index.html
